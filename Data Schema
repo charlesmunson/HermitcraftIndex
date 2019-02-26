@@ -1,0 +1,25 @@
+Data Schema for the Hermitcraft Index
+
+What metadata about Hermitcraft videos are we going to index?
+
+* Hermit Name
+* Season
+* Episode #
+* Time Index Start
+* Category
+* Free tags
+* Description
+* Other Hermits involved?
+
+
+Categories
+* Building
+* Technical
+* Tour
+* Conference
+* Trading
+* War
+* Tag Game
+* Lore and History
+* Stories / Exposition
+
